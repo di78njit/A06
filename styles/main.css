@@ -1,0 +1,27 @@
+/* styles/main.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+header, section, footer {
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 5px 0;
+}
+
+header p {
+    font-style: italic;
+}
+
+.speaker img {
+    width: 200px;
+    height: auto;
+}
+
+a:hover {
+    font-style: italic;
+}
